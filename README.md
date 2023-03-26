@@ -7,3 +7,4 @@ This repository contains no Nintendo 3DS/Wii U game ROMs, backups, etc. Only ima
 * ~~Get banner_url images~~ Done (unless i magically forgot some, which is entirely possible but now less likely)
 * Get rating system icon images (e.g. ESRB logos)
 * ~~Get Wii U (WUP) titles~~ Done (probably)
+* Get game screenshots from each title's page (may or may not do this)
