@@ -1,4 +1,4 @@
-# Nintendo-3DS-eShop-Images
+# Nintendo-3DS-Wii-U-eShop-Images
 Archive of images retrieved from titles.xml, WIP
 # Disclaimer
 This repository contains no Nintendo 3DS/Wii U game ROMs, backups, etc. Only images and metadata retrievable from the Nintendo 3DS/Wii U eShop.
